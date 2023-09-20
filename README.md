@@ -76,10 +76,5 @@ $ yarn start
 ```bash
 $ yarn server
 ```
-
-<h2 id="license">License</h2>
-
-<p>This project is under 
-<a href="https://github.com/EduardoRodriguesF/first-rocket/blob/main/LICENSE">MIT License.</a>
 </p>
 
