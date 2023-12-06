@@ -8,7 +8,6 @@
   <a href="#features">Features</a> •
   <a href="#techs">Technologies</a> •
   <a href="#usage">Usage</a> • 
-  <a href="#license">License</a>
 </p>
 
 <h2 id="about">About</h2>
